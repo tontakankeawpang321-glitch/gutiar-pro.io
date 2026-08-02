@@ -1,0 +1,6 @@
+{
+  "name": "Real Acoustic Guitar",
+  "description": "Realistic mobile acoustic guitar simulator with touch string plucking, rim slap percussion, tone tuning, song recording, tabs composer, and audio/project export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
